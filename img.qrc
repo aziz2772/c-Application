@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ajouter.png</file>
+        <file>ajouter2.png</file>
+        <file>modifier.png</file>
+        <file>modifier2.png</file>
+        <file>supprimer.png</file>
+        <file>supprimer2.png</file>
+        <file>trier.png</file>
+        <file>trier2.png</file>
+    </qresource>
+</RCC>
